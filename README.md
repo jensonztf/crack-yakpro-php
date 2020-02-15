@@ -253,4 +253,4 @@ require_once ROOT_PATH . "model/notice.php";
 
 
 
-碰到有些label后面没跟命令的，会报错，类似KerError:{label名称}，可以自己再后面加个简单的命令，再试。
+碰到有些label后面没跟命令的，会报错，类似KeyError:{label名称}，可以自己再后面加个简单的命令，再试。
